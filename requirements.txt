@@ -9,3 +9,6 @@ jupyter
 langchain-google-genai
 google-generativeai
 python-dotenv
+tiktoken
+fastapi
+uvicorn
